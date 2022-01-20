@@ -277,6 +277,9 @@
     .main-nav{
         margin-top: 0;
     }
+    .btn__group{
+        margin-top: 15px;
+    }
     .location{
         margin-top: 10px;
     }
@@ -315,6 +318,12 @@
     .hero_section{
         height: 400px;
     }
+    .col_img{
+        max-width: 300px;
+    }
+    .col_img img{
+        width: 100%;
+    }
     .col_title{
         margin: 5px 0;
     }
@@ -328,6 +337,12 @@
     .footer-bottom p{
         font-size: 12px;
         line-height: 14px;
+    }
+     .location{
+        margin-top: 0px;
+    }
+    .map iframe{
+        height: 250px;
     }
     .location-secton__heading{
         font-size: 20px;
@@ -350,6 +365,9 @@
     }
     .footer_content-nav{
         margin: 15px 0;
+    }
+    .info__subtitle{
+        font-size: 20px;
     }
 }
 
